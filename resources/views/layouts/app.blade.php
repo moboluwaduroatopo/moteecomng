@@ -85,7 +85,7 @@
                 <a href="https://api.whatsapp.com/send?phone=2347069176577"><i class="fab fa-whatsapp"></i></a>
                 <a href="https://www.instagram.com/motee0112/"><i class="ti-instagram"></i></a>
                 <a href="https://web.facebook.com/adio.tawakalitu"><i class="ti-facebook"></i></a>
-                <a href="mailto:moboluwaduro011@gmail.com"><i class="ti-email"></i></a>
+                <a href="mailto:moboluwaduro0112@gmail.com"><i class="ti-email"></i></a>
               <!-- <a href="#"><i class="fab fa-facebook-f"></i></a>
               <a href="#"><i class="fab fa-twitter"></i></a>
               <a href="#"><i class="fab fa-skype"></i></a>

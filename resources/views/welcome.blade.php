@@ -20,7 +20,7 @@
                 <a href="https://api.whatsapp.com/send?phone=2347069176577"><i class="fab fa-whatsapp"></i></a>
                 <a href="https://www.instagram.com/motee0112/"><i class="ti-instagram"></i></a>
                 <a href="https://web.facebook.com/adio.tawakalitu"><i class="ti-facebook"></i></a>
-                <a href="mailto:moboluwaduro011@gmail.com"><i class="ti-email"></i></a>
+                <a href="mailto:moboluwaduro0112@gmail.com"><i class="ti-email"></i></a>
               </div>
               <a class="primary_btn" href="{{ url('/contact') }}"><span>Contact Us</span></a>
             </div>
@@ -81,7 +81,7 @@
               And Software Engineer
             </h2>
             <p>
-           ADIO TAWAKALITU ADEWUMI is a guaduate of LADOKE AKINTOLA UNIVERSITY OF TECHNOLOGY(Lautech),Ogbomoso,Nigeria.she guaduated in 2018 and awarded Bachelor of Science in Computer Science.She is a student of SQI ICT Academy with experience of about 4 + years in software developer ...
+           ADIO TAWAKALITU ADEWUMI is a guaduate of LADOKE AKINTOLA UNIVERSITY OF TECHNOLOGY(Lautech),Ogbomoso,Nigeria.she guaduated in 2018 and awarded Bachelor of Science in Computer Science.She is one of the SQI ICT Academy Alumna with experience of about 4 <sup>+</sup> years in software developer ...
             </p>
             <a class="primary_btn" href="{{ url('/upload/ADIO, TAWAKALITU ADEWUMI RESUME 2.pdf') }}" target="_blank"><span>Download CV</span></a>
           </div>
